@@ -17,7 +17,7 @@ Pontuação e progresso registrados durante a jornada.
 
 ### 🖼️ Galeria do Jogo
 Menu Principal
-![Descrição da imagem](./images/nome-da-imagem.png)
+![Descrição da imagem](1.png)
 
 Cena de Níveis
 
