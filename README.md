@@ -30,5 +30,5 @@ Pontuação e progresso registrados durante a jornada.
 <img src="4.png" width="50%" alt="Menu Principal">
 
 ### ⚙️ Tecnologias Usadas
-Engine: Unity
-Linguagem: C#
+  - Engine: Unity
+  - Linguagem: C#
