@@ -18,12 +18,19 @@ Pontuação e progresso registrados durante a jornada.
 ###🖼️ Galeria do Jogo
 
 ### Menu Principal
+
 <img src="1.png" width="50%" alt="Menu Principal">
+
 ### Cena de Níveis
+
 <img src="2.png" width="50%" alt="Menu Principal">
+
 ### Cenário do Jogo
+
 <img src="3.png" width="50%" alt="Menu Principal">
+
 ### Derrotando o Boss
+
 <img src="4.png" width="50%" alt="Menu Principal">
 
 ### ⚙️ Tecnologias Usadas
