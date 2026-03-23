@@ -25,8 +25,6 @@ Pontuação e progresso registrados durante a jornada.
 
 ### Cenário do Jogo
 <img src="3.png" width="50%" alt="Menu Principal">
-
-### Cenário do Jogo
 <img src="4.png" width="50%" alt="Menu Principal">
 
 ### ⚙️ Tecnologias Usadas
