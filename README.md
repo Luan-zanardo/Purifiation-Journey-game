@@ -16,33 +16,14 @@ Batalha contra o boss final.
 Pontuação e progresso registrados durante a jornada.
 
 ### 🖼️ Galeria do Jogo
-Menu Principal
-![Descrição da imagem](1.png)
-
-Cena de Níveis
-
-Cenário do Jogo
-
-Derrotando o Boss
-
-Obs.: Substitua as imagens acima pelos seus próprios screenshots.
-
-⚙️ Tecnologias Usadas
-Engine: Unity / Unreal / Godot (especifique a que você usou)
-Linguagem: C# / C++ / GDScript (de acordo com a engine)
-Assets personalizados para personagens, inimigos e cenários
-📂 Estrutura do Projeto
-Purifiation-Journey-Game/
-├── Assets/
-├── Scenes/
-├── Scripts/
-├── images/
-│   ├── menu.png
-│   ├── levels.png
-│   ├── gameplay.png
-│   └── boss.png
-├── README.md
-└── ...
-🔗 Links
-Repositório GitHub: [Seu link aqui]
-Vídeo / Demo do jogo: [Seu link aqu
+###Menu Principal
+<img src="1.png" width="50%" alt="Menu Principal">
+### Cena de Níveis
+<img src="2.png" width="50%" alt="Menu Principal">
+### Cenário do Jogo
+<img src="3.png" width="50%" alt="Menu Principal">
+### Derrotando o Boss
+<img src="4.png" width="50%" alt="Menu Principal">
+### ⚙️ Tecnologias Usadas
+Engine: Unity
+Linguagem: C#
